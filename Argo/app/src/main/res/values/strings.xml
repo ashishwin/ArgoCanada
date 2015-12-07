@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Argo Canada</string>
+
+    <string name="hello_world">Argo is a global array of more than 3,000 free-drifting profiling floats that measures thetemperature and salinity of the upper 2000 m of the ocean.  This allows, for the first time, continuous monitoring of the temperature, salinity, and velocity of the upper ocean, with all data being relayed and made publicly available within hours after collection.This Application shows the contribution of Canada in this project</string>
+    <string name="update">Update Database</string>
+    <string name="LabelColor">#aaaaff</string>
+    <string name="List">List of Floats</string>
+    <string name="title_activity_display_floats_list">DisplayFloatsList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_floats_maps">Map</string>
+</resources>
